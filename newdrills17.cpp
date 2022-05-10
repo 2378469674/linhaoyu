@@ -1,6 +1,6 @@
 // Chapter 17, drill
 
-#include "../lib_files/std_lib_facilities.h"
+#include "std_lib_facilities.h"
 
 // 4
 void print_array10(ostream& os, int* a) {
