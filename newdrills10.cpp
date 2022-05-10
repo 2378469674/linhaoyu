@@ -1,6 +1,6 @@
 // Chapter 10, drill
 
-#include "../lib_files/std_lib_facilities.h"
+#include "std_lib_facilities.h"
 
 // type for points
 struct Point {
