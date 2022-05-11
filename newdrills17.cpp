@@ -1,4 +1,4 @@
-// Chapter 17, drill自由空间数组
+// Chapter 17, drill自由空间数组A pointer is a variable whose value is the address of another variable指针是一个变量，其值为另一个变量的地址
 
 #include "std_lib_facilities.h"
 
